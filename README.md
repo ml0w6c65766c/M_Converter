@@ -1,6 +1,6 @@
 # M Converter v0.1
 
-![M Converter Banner](path/to/your/image.png)  
+![M Converter Banner](media/example.png)  
 
 
 A small C project for base conversions, created by [ml0w6c65766c](https://github.com/ml0w6c65766c).  
